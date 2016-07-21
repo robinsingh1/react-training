@@ -1,0 +1,9 @@
+{
+  "javascript": {
+    "main": "http://dev.walmart.com:2992/js/bundle.dev.js"
+  },
+  "styles": {},
+  "assets": {
+    "./images/smiley.jpg": "http://dev.walmart.com:2992/js/d887f928f628d40a1c0ca29e65b0e81f.jpg"
+  }
+}
